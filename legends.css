@@ -1,0 +1,99 @@
+body{
+    background-image:url(../img/texture-paper.jpeg);
+    max-width: 100%;
+}
+
+
+th{
+    text-align: center;
+    font-size: 1.3em;
+}
+.oc{
+    position: relative;
+    
+}
+
+.oc h1{
+       position: absolute;
+       top: 0%;
+       left: 0%;
+       color: rgb(0, 0, 0);
+       text-shadow: 1px 1px 0 rgb(226, 0, 0);
+}
+
+.life{
+    position: relative;
+}   
+.life h1{
+    position: absolute;
+    top: 0%;
+    left: 0%;
+    color: rgb(0, 0, 0);
+    text-shadow: 1px 1px 0 rgb(226, 0, 0);
+}
+
+.ash{
+    position: relative;
+}
+.ash h1{
+    position: absolute;
+    top: 0%;
+    left: 0%;
+    color: rgb(0, 0, 0);
+    text-shadow: 1px 1px 0 rgb(226, 0, 0);   
+}
+
+.path{
+    position: relative;
+}
+.path h1{
+    position: absolute;
+    top: 0%;
+    left: 0%;
+    color: rgb(0, 0, 0);
+    text-shadow: 1px 1px 0 rgb(226, 0, 0); 
+}
+
+.blood{
+    position: relative;
+}
+.blood h1{
+    position: absolute;
+    top: 0%;
+    left: 0%;
+    color: rgb(0, 0, 0);
+    text-shadow: 1px 1px 0 rgb(226, 0, 0); 
+}
+
+.wraith{
+    position: relative;
+}
+.wraith h1{
+    position: absolute;
+    top: 0%;
+    left: 0%;
+    color: rgb(0, 0, 0);
+    text-shadow: 1px 1px 0 rgb(226, 0, 0);
+}
+
+
+h1{
+    color: rgb(0, 0, 0);
+    font-size: 2em;
+    text-align: center;
+    text-shadow: 1px 1px 0 rgb(248, 23, 23);
+}
+
+.back h1{
+    color: rgb(0, 0, 0);
+    font-size: 2em;
+    text-align: right;
+    text-shadow: 1px 1px 0 rgb(23, 166, 248);
+}
+
+h2{
+    color: aliceblue;
+    font-size: 2em;
+    text-align: right;
+    text-shadow: 1px 1px 0 rgb(0, 0, 0);
+}
