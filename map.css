@@ -1,0 +1,101 @@
+body{
+    background-image: url(../img/texture-paper.jpeg);
+}
+
+h1{
+    text-align: center;
+}
+.king{
+    float: left;
+ border-radius: 1em;
+ width: 1000px;
+ border: 1px solid rgb(246, 42, 42);
+ padding: 10px;
+ margin-left: 100px;
+ background-color: rgba(255, 251, 216, 0.4);
+}
+.king h3{
+ background-color :rgba(255, 255, 255, 0.5);
+ border-radius: 1em;
+ border-radius: 1em;
+ width: 17%;
+ padding-left: 8px;
+ height: 27px;
+ font-size: 18px;
+}
+
+.olym{
+    float: left;
+    margin: 3%;
+    border-radius: 1em;
+    width: 1000px;
+    border: 1px solid rgb(246, 42, 42);
+    padding: 10px;
+    background-color: rgba(255, 251, 216, 0.4);
+    margin-left: 100px;
+}
+.olym h3{
+    background-color :rgba(255, 255, 255, 0.5);
+    border-radius: 1em;
+    width: 10%;
+    padding-left: 8px;
+    height: 27px;
+    font-size: 18px;
+}
+
+.worlds{
+    float: left;
+    margin: 0%;
+    border-radius: 1em;
+    width: 1000px;
+    border: 1px solid rgb(246, 42, 42);
+    padding: 10px;
+    background-color: rgba(255, 251, 216, 0.4);
+    margin-left: 100px;
+}   
+.worlds h3{
+    background-color :rgba(255, 255, 255, 0.5);
+    border-radius: 1em;
+    width: 14%;
+    padding-left: 8px;
+    height: 27px;
+    font-size: 18px;
+}
+
+.storm{
+    float: left;
+    margin: 3%;
+    border-radius: 1em;
+    width: 1000px;
+    border: 1px solid rgb(246, 42, 42);
+    padding: 10px;
+    background-color: rgba(255, 251, 216, 0.4);
+    margin-left: 100px;
+}
+.storm h3{
+    background-color :rgba(255, 255, 255, 0.5);
+    border-radius: 1em;
+    width: 16%;
+    padding-left: 8px;
+    height: 27px;
+    font-size: 18px;
+}
+
+h2{
+    position: absolute;
+    top:2800px;
+    left: 80%;
+    font-size: 2em;
+    color: crimson;
+    text-shadow: 1px 1px 0 rgb(0, 0, 0);
+}
+
+.back2 h1{
+    position: absolute;
+    top: 2900;
+    left: 90%;
+    color: rgb(0, 0, 0);
+    font-size: 2em;
+    text-align: right;
+    text-shadow: 1px 1px 0 rgb(23, 166, 248);
+}
